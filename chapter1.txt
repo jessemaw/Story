@@ -1,0 +1,1 @@
+A qubit is a quantum bit
